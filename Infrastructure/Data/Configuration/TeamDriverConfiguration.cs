@@ -14,8 +14,7 @@ namespace Infrastructure.Data.Configuration
     
             builder.ToTable("team_drivers");
     
-            
-    
+           
         }
     }
 }

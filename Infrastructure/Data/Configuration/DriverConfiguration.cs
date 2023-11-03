@@ -23,7 +23,8 @@ namespace Infrastructure.Data.Configuration
                 .HasMaxLength(255)
                 .HasColumnName("name");
 
-    
+
+           
         }
     }
 }
